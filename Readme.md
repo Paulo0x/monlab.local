@@ -1,4 +1,4 @@
-# 🔐 Déploiement WireGuard -- Homelab PME Sécurisée
+# 🔐 Déploiement WireGuard -- Homelab 
 
 ## 🎯 Objectif
 
